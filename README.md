@@ -6,6 +6,10 @@
 
 ## English
 
+### 🖼️ Hero Image
+
+![Hero Image](hero_image.png)
+
 ### 📋 Project Overview
 
 This comprehensive full-stack e-commerce platform represents the culmination of the **IBM Full-Stack JavaScript Developer Professional Certificate** program. The project demonstrates mastery of modern web development technologies including React.js, Node.js, Express.js, and MongoDB, showcasing end-to-end application development skills essential for enterprise-level software engineering.
@@ -338,6 +342,10 @@ This project serves as the capstone project for the **IBM Full-Stack JavaScript 
 ---
 
 ## Português
+
+### 🖼️ Imagem Hero
+
+![Imagem Hero](hero_image.png)
 
 ### 📋 Visão Geral do Projeto
 
